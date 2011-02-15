@@ -75,7 +75,7 @@
      (font-lock-constant-face ((t (:foreground "Aquamarine"))))
      (font-lock-doc-face ((t (:foreground "DarkOrange"))))
      (font-lock-keyword-face ((t (:foreground "#729fcf" :bold t))))
-     (font-lock-string-face ((t (:foreground "pink"))))
+     (font-lock-string-face ((t (:foreground "chocolate"))))
      (font-lock-type-face ((t (:foreground "#8ae234" :bold t))))
      (font-lock-variable-name-face ((t (:foreground "darkseagreen"))))
      (font-lock-warning-face ((t (:bold t :foreground "white" :background "darkred"))))
